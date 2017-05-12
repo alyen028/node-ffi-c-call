@@ -1,3 +1,3 @@
 module.exports = {
-    AddonHelloModule: require('./build/Release/hello')
+    AddonHelloModule: require('./lib/hello.node')
 }
