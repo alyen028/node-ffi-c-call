@@ -6,6 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "gypfile": true,
   "repository": {
     "type": "git",
     "url": "git+https://github.com/alyen028/node-ffi-c-call.git"
@@ -18,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/alyen028/node-ffi-c-call/issues"
   },
-  "homepage": "https://github.com/alyen028/node-ffi-c-call#readme"
+  "homepage": "https://github.com/alyen028/node-ffi-c-call#readme",
+  "dependencies": {
+    "nan": "^2.6.2"
+  }
 }

@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hello", "hello.vcxproj", "{2BD7F878-7BB1-A91F-D63A-B52BDCD752BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BD7F878-7BB1-A91F-D63A-B52BDCD752BD}.Debug|x64.ActiveCfg = Debug|x64
+		{2BD7F878-7BB1-A91F-D63A-B52BDCD752BD}.Debug|x64.Build.0 = Debug|x64
+		{2BD7F878-7BB1-A91F-D63A-B52BDCD752BD}.Release|x64.ActiveCfg = Release|x64
+		{2BD7F878-7BB1-A91F-D63A-B52BDCD752BD}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
