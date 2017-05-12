@@ -1,0 +1,22 @@
+{
+  "name": "node-ffi-c-call",
+  "version": "1.0.0",
+  "description": "a plugin with nodeffi by c",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alyen028/node-ffi-c-call.git"
+  },
+  "keywords": [
+    "c"
+  ],
+  "author": "linxinjian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alyen028/node-ffi-c-call/issues"
+  },
+  "homepage": "https://github.com/alyen028/node-ffi-c-call#readme"
+}
